@@ -2,7 +2,7 @@
 from collections import Counter
 
 # input text file
-inputFile = "read.txt"
+inputFile = "about.txt"
 
 # Storing all the words
 newWordsList = []
