@@ -1,7 +1,7 @@
 # Create a list to store the 6 letter words
 sixLetterWords= []
 # Open the file
-with open('read.txt') as fin:
+with open('about.txt') as fin:
     # Read each line
     for line in fin.readlines():
         # Split the line into words
